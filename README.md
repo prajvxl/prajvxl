@@ -5,7 +5,7 @@
 
 <br><br>
 
-<h3><code>you@github ~ $ whoami</code></h3>
+<h3><code>prajval@github ~ $ whoami</code></h3>
 <table>
   <tr>
     <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
