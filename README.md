@@ -1,3 +1,15 @@
+<div align="center">
+
+<h3><code>prajval@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+</div>
+---
 <p align="center">
   <a href="https://github.com/prajvxl">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Prajval" alt="Hello! I&#39;m Prajval" />
@@ -63,19 +75,4 @@
 <p align="center"><i>⭐️ From <a href="https://github.com/prajvxl">prajvxl</a></i></p>
 
 
-<div align="center">
 
-<h3><code>prajval@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
-
-<br><br>
-
-<h3><code>prajval@github ~ $ whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" /></td>
-  </tr>
-</table>
-
-</div>
