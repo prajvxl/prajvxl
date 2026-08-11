@@ -1,36 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 184">
-  
-    <style>
-      @keyframes fadeSlide {
-        from { opacity: 0; transform: translateY(6px); }
-        to   { opacity: 1; transform: translateY(0); }
-      }
-    </style>
+  <style>
+    @keyframes fadeSlide {
+      from { opacity: 0; transform: translateY(6px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+  </style>
   <rect width="490" height="184" rx="8" fill="#0d1117"/>
   <rect width="490" height="32" rx="8" fill="#161b22"/>
   <rect y="24" width="490" height="8" fill="#161b22"/>
   <circle cx="20" cy="16" r="6" fill="#ff5f56"/>
   <circle cx="40" cy="16" r="6" fill="#ffbd2e"/>
   <circle cx="60" cy="16" r="6" fill="#27c93f"/>
-  
-    <text x="24" y="56" font-family="Menlo, Consolas, monospace" font-size="14"
-        style="animation: fadeSlide 0.5s ease-out 0.00s both;">
-      <tspan fill="#39d353">Now:</tspan>
-      <tspan fill="#c9d1d9" dx="8">3rd-year student, learning full-stack web dev</tspan>
-    </text>
-    <text x="24" y="82" font-family="Menlo, Consolas, monospace" font-size="14"
-        style="animation: fadeSlide 0.5s ease-out 0.12s both;">
-      <tspan fill="#39d353">Prev:</tspan>
-      <tspan fill="#c9d1d9" dx="8">Building a strong foundation in computer science and programming</tspan>
-    </text>
-    <text x="24" y="108" font-family="Menlo, Consolas, monospace" font-size="14"
-        style="animation: fadeSlide 0.5s ease-out 0.24s both;">
-      <tspan fill="#39d353">Stack:</tspan>
-      <tspan fill="#c9d1d9" dx="8">Python, JS/TS, React, Java, C++, JavaScript, Git &amp; GitHub</tspan>
-    </text>
-    <text x="24" y="134" font-family="Menlo, Consolas, monospace" font-size="14"
-        style="animation: fadeSlide 0.5s ease-out 0.36s both;">
-      <tspan fill="#39d353">Highlights:</tspan>
-      <tspan fill="#c9d1d9" dx="8">Building projects and strengthening problem-solving skills</tspan>
-    </text>
+
+  <text x="24" y="56" font-family="Menlo, Consolas, monospace" font-size="14"
+      style="animation: fadeSlide 0.5s ease-out 0.00s both;">
+    <tspan fill="#39d353">Building:</tspan>
+    <tspan fill="#c9d1d9" dx="8">MERN-stack ordering portal for a coffee shop client</tspan>
+  </text>
+  <text x="24" y="82" font-family="Menlo, Consolas, monospace" font-size="14"
+      style="animation: fadeSlide 0.5s ease-out 0.12s both;">
+    <tspan fill="#39d353">Backend:</tspan>
+    <tspan fill="#c9d1d9" dx="8">30-day Node.js/Express + PostgreSQL API build</tspan>
+  </text>
+  <text x="24" y="108" font-family="Menlo, Consolas, monospace" font-size="14"
+      style="animation: fadeSlide 0.5s ease-out 0.24s both;">
+    <tspan fill="#39d353">DevOps:</tspan>
+    <tspan fill="#c9d1d9" dx="8">Git/GitHub workflows, branching &amp; GitHub Actions</tspan>
+  </text>
+  <text x="24" y="134" font-family="Menlo, Consolas, monospace" font-size="14"
+      style="animation: fadeSlide 0.5s ease-out 0.36s both;">
+    <tspan fill="#39d353">Next up:</tspan>
+    <tspan fill="#c9d1d9" dx="8">Docker containerization &amp; deployment</tspan>
+  </text>
 </svg>
