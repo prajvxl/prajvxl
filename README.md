@@ -48,8 +48,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🔗 My Projects 
-
 # 🎓 CampusConnect
 
 A full-stack college club & event management platform connecting **students, club heads, and faculty/admins** through one centralized system.
@@ -70,6 +70,7 @@ Vedant Garje • **Prajval Chavare** • Rohan • swara
 
 🔗 **[Live Project](https://lnkd.in/eXhsKTUs)**
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🔗 Connect With Me
 
 <p align="left">
