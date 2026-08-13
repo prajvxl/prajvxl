@@ -48,6 +48,27 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
+### 🔗 My Projects 
+
+# 🎓 CampusConnect
+
+A full-stack college club & event management platform connecting **students, club heads, and faculty/admins** through one centralized system.
+
+## 💻 Tech Stack
+**Next.js** • **Java Spring Boot** • **PostgreSQL**
+
+## ✨ Features
+- 👨‍🎓 **Students:** Event registration, volunteering, club directory, notifications & approved account access
+- 🏛️ **Club Heads:** Club management, event CRUD, participant & volunteer tracking
+- 👨‍🏫 **Faculty/Admin:** User management, event approvals, dashboards & analytics
+
+## 🏗️ Architecture
+**Next.js → Spring Boot REST API → PostgreSQL**
+
+## 👥 Team
+Vedant Garje • **Prajval Chavare** • Rohan • swara
+
+🔗 **[Live Project](https://lnkd.in/eXhsKTUs)**
 
 ### 🔗 Connect With Me
 
