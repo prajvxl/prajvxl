@@ -68,7 +68,9 @@ A full-stack college club & event management platform connecting **students, clu
 ## 👥 Team
 Vedant Garje • **Prajval Chavare** • Rohan • swara
 
-🔗 **[Live Project]([https://campus-frontend-six.vercel.app/])**
+## 🔗 Live Project
+
+[🚀 View CampusConnect](https://campus-frontend-six.vercel.app/)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🔗 Connect With Me
