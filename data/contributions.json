@@ -2,41 +2,6 @@
   "username": "prajvxl",
   "days": [
     {
-      "date": "2025-08-10",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-11",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-12",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-13",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-14",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-15",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-08-16",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-08-17",
       "level": 0,
       "count": 0
@@ -1853,14 +1818,19 @@
     },
     {
       "date": "2026-08-15",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-08-16",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
-    "total_last_year": 56,
+    "total_last_year": 57,
     "current_streak": 0,
-    "longest_streak": 10,
+    "longest_streak": 11,
     "best_day": {
       "date": "2026-08-02",
       "level": 4,
@@ -1879,8 +1849,8 @@
       "2026-05": 0,
       "2026-06": 0,
       "2026-07": 11,
-      "2026-08": 44
+      "2026-08": 45
     },
-    "generated_at": "2026-08-15T06:58:03.810788Z"
+    "generated_at": "2026-08-16T06:59:35.574596Z"
   }
 }
